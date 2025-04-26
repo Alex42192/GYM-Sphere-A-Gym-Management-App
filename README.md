@@ -62,6 +62,6 @@ The *Gym Management and Discovery App* is built using the following technologies
 
 For queries or suggestions, please reach out to the team:  
 
-📩 *Mohit Kumar* – [rohitraj42192@gmail.com](mailto:rohitraj42192@gmail.com )  
+📩 *Rohit Kumar* – [rohitraj42192@gmail.com](mailto:rohitraj42192@gmail.com )  
 
 Let’s make **fitness management smarter and more accessible! 💪🔥**
