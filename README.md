@@ -57,20 +57,11 @@ The *Gym Management and Discovery App* is built using the following technologies
 | **8-10** | **Frontend Development**  | 📱 Developing React Native UI <br> 🎨 Implementing designs <br> 🔄 API integration |
 | **11-12** | **Testing & Deployment**  | 🛠 Unit and UI testing <br> 🚀 Bug fixes and optimizations <br> 🌍 Deployment to production |
 
----
 
-## 📜 License  
-
-This project is licensed under the **MIT License**.  
-
----
-
-## 📧 Contact  
+## 📞 Contact 
 
 For queries or suggestions, please reach out to the team:  
 
-📩 *Mohit Kumar* – [221210070@nitdelhi.ac.in](mailto:221210070@nitdelhi.ac.in)  
-📩 *Muskan Negi* – [221210072@nitdelhi.ac.in](mailto:221210072@nitdelhi.ac.in)  
-📩 *Pathi Ankit* – [22120077@nitdelhi.ac.in](mailto:22120077@nitdelhi.ac.in) 
+📩 *Mohit Kumar* – [rohitraj42192@gmail.com](mailto:rohitraj42192@gmail.com )  
 
 Let’s make **fitness management smarter and more accessible! 💪🔥**
